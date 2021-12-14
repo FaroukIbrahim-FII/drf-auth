@@ -1,3 +1,2 @@
-# Django drf-api
+# Django drf-auth
 
-[PR](https://github.com/FaroukIbrahim-FII/drf-api-permissions-postgres/pull/2)
